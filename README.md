@@ -12,6 +12,7 @@ To set up SparkleShare, simply go to your Account Settings on GitHub (the "Tools
 INKSCAPE
 --------
 Please use Inkscape to design the icons. Icon export depends on Inkscape-specific labels.
+You can download Inkscape for free from http://inkscape.org/
 
 SHAPE DESIGN
 ------------
