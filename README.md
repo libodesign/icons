@@ -39,6 +39,7 @@ Drawing a 2D Shape
 13. Apply the highlight gradient fill to it and make it 40% opaque.
 
 If the shape contains inner elements (e.g. the Smiley shape):
+
 1. Draw the inner elements after you've completed the process above.
 2. Add the elements (Ctrl++). I'll call the result the "inner path".
 3. Duplicate this "inner path" (Ctrl+D). Let's call this duplicate the "inner path highlight".
