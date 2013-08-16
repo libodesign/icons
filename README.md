@@ -22,8 +22,8 @@ Principles
 * Leave a 1px margin in the 24px icons. Don't leave a margin in the 16px icons.
 * If in doubt, refer to the Tango icon guidelines: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
 
-Drawing a 2D Shape
-==================
+Drawing a 2D Shape Icon
+=======================
 1. Draw the shape and apply the shapeFill gradient to it in the Fill sidebar (Ctrl+Shift+F). Make sure it has no stroke.
 2. Duplicate the shape twice (Ctrl+D, Ctrl+D).
 3. Add a 2px stroke to the topmost duplicate.
