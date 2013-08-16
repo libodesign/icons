@@ -7,7 +7,7 @@ Contact us if you want to contribute -- we need to add you to the repository.
 
 SPARKLESHARE
 ------------
-To set up SparkleShare, simply go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and add the text from the file in your SparkleShare folder.
+To set up SparkleShare, simply go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and copy over the text from the file in your SparkleShare folder.
 
 INKSCAPE
 --------
@@ -39,7 +39,6 @@ Drawing a 2D Shape Icon
 13. Apply the highlight gradient fill to it and make it 40% opaque.
 
 If the shape contains inner elements (e.g. the Smiley shape):
-
 1. Draw the inner elements after you've completed the process above.
 2. Add the elements (Ctrl++). I'll call the result the "inner path".
 3. Duplicate this "inner path" (Ctrl+D). Let's call this duplicate the "inner path highlight".
