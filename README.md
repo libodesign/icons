@@ -19,13 +19,14 @@ INKSCAPE
 Please use Inkscape to design the icons. Icon export depends on Inkscape-specific labels.
 You can download Inkscape for free from http://inkscape.org/
 
-SHAPE DESIGN
-------------
+DESIGN
+------
 Principles
 ==========
 * Align to a 1px-grid whenever possible. Make sure the grid (#) and snapping (%) is on in Inkscape.
 * Leave a 1px margin in the 24px icons. Don't leave a margin in the 16px icons.
 * If in doubt, refer to the Tango icon guidelines: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+* When you're done with an icon, group it with an invisible (no fill and no stroke) 24x24px square. Open Object properties (Ctrl+Shift+O) and set the label to the name of the icon.
 
 Drawing a 2D Shape Icon
 =======================
