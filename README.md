@@ -5,6 +5,11 @@ Updated Tango-compatible Icon Theme for LibreOffice
 
 Contact us if you want to contribute -- we need to add you to the repository.
 
+LICENSE
+-------
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. See the License.md file for details.
+By submitting your work, you grant us an irrevocable permission to publish it under this license.
+
 SPARKLESHARE
 ------------
 To set up SparkleShare, go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and copy over the text from the file in your SparkleShare folder.
