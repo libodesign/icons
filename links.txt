@@ -7,6 +7,7 @@ cmd/lc_square_rounded.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_rect_rounded.png cmd/lc_basicshapes.round-rectangle.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_fontcolor.png cmd/lc_color.png
+cmd/lc_alignverticalcenter.png cmd/lc_alignvcenter.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
