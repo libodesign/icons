@@ -13,6 +13,10 @@ cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineup.png cmd/lc_moveup.png
 cmd/lc_outlinedown.png cmd/lc_movedown.png
+cmd/lc_rightpara.png cmd/lc_alignright.png
+cmd/lc_leftpara.png cmd/lc_alignleft.png
+cmd/lc_justifypara.png cmd/lc_alignblock.png
+cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
