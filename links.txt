@@ -8,6 +8,7 @@ cmd/lc_rect_rounded.png cmd/lc_basicshapes.round-rectangle.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_fontcolor.png cmd/lc_color.png
 cmd/lc_alignverticalcenter.png cmd/lc_alignvcenter.png
+cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
