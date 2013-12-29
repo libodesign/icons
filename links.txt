@@ -42,6 +42,9 @@ cmd/lc_insertformspin.png cmd/lc_spinbutton.png
 cmd/lc_insertformspin.png cmd/lc_filecontrol.png
 cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 
+#Not sure about
+sc/imglst/lc26047.png cmd/lc_insertformula.png
+
 # 16x16
 # =====
 
@@ -85,3 +88,6 @@ cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertformspin.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
+
+#Not sure about
+sc/imglst/sc26047.png cmd/sc_insertformula.png
