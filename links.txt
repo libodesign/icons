@@ -22,6 +22,8 @@ cmd/lc_justifypara.png cmd/lc_alignblock.png
 cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
+sfx2/res/symphony/sidebar-functions-large.png cmd/lc_insertformula.png
+sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
@@ -69,6 +71,8 @@ cmd/sc_justifypara.png cmd/sc_alignblock.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
+sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
+sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
 
 #Not sure about
 sc/imglst/sc26047.png cmd/sc_insertformula.png
