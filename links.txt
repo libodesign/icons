@@ -21,6 +21,7 @@ cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_justifypara.png cmd/lc_alignblock.png
 cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
+sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
@@ -64,6 +65,7 @@ cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_justifypara.png cmd/sc_alignblock.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
+sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
