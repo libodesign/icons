@@ -25,6 +25,7 @@ sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 sfx2/res/symphony/sidebar-functions-large.png cmd/lc_insertformula.png
 sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 sfx2/res/symphony/sidebar-transition-large.png cmd/lc_dia.png
+sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
@@ -75,6 +76,7 @@ sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
 sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
 sfx2/res/symphony/sidebar-transition-small.png cmd/sc_dia.png
+sfx2/res/symphony/sidebar-animation-small.png cmd/sc_customanimation.png
 
 #Not sure about
 sc/imglst/sc26047.png cmd/sc_insertformula.png
