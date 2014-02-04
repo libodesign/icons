@@ -135,7 +135,7 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #padmin
 #reportdesign
 #res
-#sc
+#sc (partly)
 #sch
 #sd
 #sfx2/res (mostly)
