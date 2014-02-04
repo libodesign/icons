@@ -33,6 +33,7 @@ sfx2/imglst/actiontemplates018.png cmd/lc_delete.png
 sfx2/imglst/actionview025.png cmd/lc_delete.png
 sfx2/imglst/actiontemplates016.png cmd/lc_setdocumentproperties.png
 sfx2/imglst/actiontemplates019.png cmd/lc_editdoc.png
+sfx2/imglst/actionview028.png cmd/lc_save.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
