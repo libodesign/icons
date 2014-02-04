@@ -88,6 +88,8 @@ cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_justifypara.png cmd/sc_alignblock.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 sc/imglist/sc26048.png cmd/sc_autosum.png
+sc/imglist/sc26050.png cmd/sc_cancel.png
+sc/imglist/sc26051.png cmd/sc_apply.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
