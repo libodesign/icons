@@ -38,6 +38,8 @@ sfx2/imglst/actionview030.png cmd/lc_open.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
+sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
+sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
