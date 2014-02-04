@@ -33,7 +33,7 @@ sfx2/imglst/actiontemplates018.png cmd/lc_delete.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
-sfx2/imglst/actionview018.png cmd/lc_delete.png
+sfx2/imglst/actionview025.png cmd/lc_delete.png
 
 # Split button categories
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
