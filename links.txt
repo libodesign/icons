@@ -107,3 +107,6 @@ cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertformspin.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
+
+#Not included
+#vcl
