@@ -36,7 +36,7 @@ sfx2/imglst/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/imglst/actionview028.png cmd/lc_save.png
 sfx2/imglst/actionview030.png cmd/lc_open.png
 sfx2/res/search.png cmd/lc_searchdialog.png
-sfx2/res/sortascending.png cmd/lc_searchdialog.png
+sfx2/res/sortascending.png cmd/lc_sortascending.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
