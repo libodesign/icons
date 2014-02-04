@@ -110,3 +110,4 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
 #Not included
 #vcl
+#starmath
