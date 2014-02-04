@@ -85,9 +85,6 @@ chart2/res/dataeditor_icon01.png cmd/sc_insertrows.png
 chart2/res/dataeditor_icon02.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
 chart2/res/dataeditor_icon04.png cmd/sc_deletecolumns.png
-chart2/res/dataeditor_icon05.png cmd/sc_
-chart2/res/dataeditor_icon06.png cmd/sc_
-chart2/res/dataeditor_icon07.png cmd/sc_
 
 #Not sure about
 sc/imglst/sc26047.png cmd/sc_insertformula.png
