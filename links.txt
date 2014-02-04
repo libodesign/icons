@@ -109,5 +109,23 @@ cmd/sc_insertformspin.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
 #Not included
-#vcl
+#database
+#desktop
+#extensions
+#formula
+#fpicker
+#framework
+#padmin
+#reportdesign
+#res
+#sc
+#sch
+#sd
+#sfx2 (mostly)
 #starmath
+#svtools
+#svx
+#sw
+#vcl
+#wizards
+#xmlsecurity
