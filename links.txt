@@ -132,7 +132,7 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #sc
 #sch
 #sd
-#sfx2 (mostly)
+#sfx2/res (mostly)
 #starmath
 #svtools
 #svx
