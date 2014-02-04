@@ -23,6 +23,8 @@ cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 sc/imglist/lc26048.png cmd/lc_autosum.png
 sc/imglist/lc26050.png cmd/lc_cancel.png
 sc/imglist/lc26051.png cmd/lc_apply.png
+sw/imglist/lc20557.png cmd/lc_cancel.png
+sw/imglist/lc20558.png cmd/lc_apply.png
 sw/imglist/lc20556.png sc/imglist/lc26047.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
