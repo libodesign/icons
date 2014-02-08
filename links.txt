@@ -20,6 +20,8 @@ cmd/lc_rightpara.png cmd/lc_alignright.png
 cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_justifypara.png cmd/lc_alignblock.png
 cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
+cmd/lc_openfromwriter.png cmd/lc_open.png
+cmd/lc_openfromcalc.png cmd/lc_open.png
 sc/imglst/lc26048.png cmd/lc_autosum.png
 sc/imglst/lc26050.png cmd/lc_cancel.png
 sc/imglst/lc26051.png cmd/lc_apply.png
@@ -72,6 +74,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_openfromwriter.png cmd/sc_open.png
+cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_circle.png cmd/sc_basicshapes.circle.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_square.png cmd/sc_basicshapes.square.png
