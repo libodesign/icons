@@ -67,7 +67,7 @@ cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
-cmd/lc_insertformspin.png cmd/lc_filecontrol.png
+cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
 cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 
 # 16x16
