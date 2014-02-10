@@ -2,7 +2,7 @@
 # =====
 
 # Duplicates
-cmd/lc_insertgraphic.png cmd/lc_graphic.png
+cmd/lc_graphic.png cmd/lc_insertgraphic.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_circle.png cmd/lc_basicshapes.circle.png
