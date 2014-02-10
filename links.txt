@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+cmd/lc_selectmode.png cmd/lc_selectobject.png
+cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_circle.png cmd/lc_basicshapes.circle.png
 cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_square.png cmd/lc_basicshapes.square.png
@@ -74,6 +76,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_selectmode.png cmd/sc_selectobject.png
+cmd/sc_drawselect.png cmd/sc_selectobject.png
 cmd/sc_circle.png cmd/sc_basicshapes.circle.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_square.png cmd/sc_basicshapes.square.png
