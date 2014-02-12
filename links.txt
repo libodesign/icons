@@ -124,6 +124,8 @@ framework/res/arrow.png cmd/sc_navigateforward.png
 padmin/source/fax.png cmd/sc_sendfax.png
 padmin/source/pdf.png cmd/sc_exportdirecttopdf.png
 padmin/source/print.png cmd/sc_print.png
+svx/res/symphony/para_numbullet01.png cmd/sc_defaultbullet.png
+svx/res/symphony/para_numbullet02.png cmd/sc_defaultnumbering.png
 
 #Not sure about
 sc/imglst/sc26047.png cmd/sc_insertformula.png
