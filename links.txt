@@ -121,6 +121,9 @@ chart2/res/dataeditor_icon02.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
 chart2/res/dataeditor_icon04.png cmd/sc_deletecolumns.png
 framework/res/arrow.png cmd/sc_navigateforward.png
+padmin/source/fax.png cmd/sc_sendfax.png
+padmin/source/pdf.png cmd/sc_exportdirecttopdf.png
+padmin/source/print.png cmd/sc_print.png
 
 #Not sure about
 sc/imglst/sc26047.png cmd/sc_insertformula.png
@@ -147,7 +150,6 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #Not included
 #extensions
 #formula
-#padmin
 #reportdesign
 #res
 #sc (partly)
