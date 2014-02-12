@@ -142,7 +142,6 @@ cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
 #Not included
-#database
 #desktop
 #extensions
 #formula
