@@ -78,6 +78,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_graphic.png cmd/sc_insertgraphic.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
 cmd/sc_drawselect.png cmd/sc_selectobject.png
