@@ -186,6 +186,7 @@ sc/res/dropurl.png cmd/sc_inserthyperlink.png
 sd/imglst/nv010.png cmd/sc_inserthyperlink.png
 sd/imglst/nv09.png sw/imglst/sc20238.png
 sc/res/droplink.png sw/imglst/sc20238.png
+sw/imglst/sr20014.png sw/imglst/sc20183.png
 
 # Other sizes
 # ===========
