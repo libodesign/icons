@@ -173,7 +173,7 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #formula
 #reportdesign
 #res
-#sc (partly; res/sidebar is done)
+#sc/res
 #sch
 #sd
 #sfx2/res (mostly)
