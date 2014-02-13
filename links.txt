@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+sfx2/res/favorite_big.png cmd/lc_insertbookmark.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
@@ -80,6 +81,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+sfx2/res/favorite.png cmd/sc_insertbookmark.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
