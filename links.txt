@@ -151,7 +151,7 @@ sd/res/playblue_16.png avmedia/res/av02049.png
 sd/res/breakplayingblue_16.png avmedia/res/av02050.png
 sd/res/graphic.png cmd/sc_insertgraphic.png
 sw/res/all_left.png cmd/sc_firstpage.png
-sw/res/all_left.png cmd/sc_lastpage.png
+sw/res/all_right.png cmd/sc_lastpage.png
 
 # Other sizes
 # ===========
