@@ -8,7 +8,7 @@ Contact us if you want to contribute -- we need to add you to the repository.
 LICENSE
 -------
 See the LICENSE file in this folder for the licensing details.
-By submitting your work, you grant us an irrevocable permission to publish it under this license.
+By submitting your work, you grant us an irrevocable permission to publish it under the licenses specified in that file.
 
 SPARKLESHARE
 ------------
