@@ -1,3 +1,7 @@
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+This work is distributed under the terms of either the GNU LGPL v3 or Creative Commons BY-SA 3.0 license.
+
+To view a copy of the Creative Commons BY-SA 3.0, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+To view a copy of the GNU LGPL v3, see the file COPYING_LGPL in this folder, or visit https://www.gnu.org/licenses/lgpl.html.
 
 When crediting, please list all the authors in the AUTHORS file.
