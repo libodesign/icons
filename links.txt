@@ -128,6 +128,7 @@ svx/res/symphony/para_numbullet01.png cmd/sc_defaultbullet.png
 svx/res/symphony/para_numbullet02.png cmd/sc_defaultnumbering.png
 svx/res/symphony/Line_color.png cmd/sc_xlinecolor.png
 svx/res/symphony/sc_backgroundcolor.png cmd/sc_formatarea.png
+svx/res/symphony/sch_backgroundcolor.png cmd/sc_formatarea.png
 svx/res/symphony/fill_color.png cmd/sc_formatarea.png
 
 #Not sure about
