@@ -194,7 +194,7 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #starmath
 #svtools
 #svx (symphony folder is done)
-#sw (sidebar folder is done)
+#sw/imglst (partly)
 #vcl
 #wizards
 #xmlsecurity
