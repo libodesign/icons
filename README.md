@@ -7,7 +7,7 @@ Contact us if you want to contribute -- we need to add you to the repository.
 
 LICENSE
 -------
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. See the License.md file for details.
+See the LICENSE file in this folder for the licensing details.
 By submitting your work, you grant us an irrevocable permission to publish it under this license.
 
 SPARKLESHARE
