@@ -147,6 +147,7 @@ sd/imglst/nv06.png cmd/sc_lastpage.png
 sd/res/stopplayingblue_16.png avmedia/res/av02051.png
 sd/res/playblue_16.png avmedia/res/av02049.png
 sd/res/breakplayingblue_16.png avmedia/res/av02050.png
+sd/res/graphic.png cmd/sc_insertgraphic.png
 
 # Other sizes
 # ===========
