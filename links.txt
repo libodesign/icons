@@ -166,7 +166,7 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #sfx2/res (mostly)
 #starmath
 #svtools
-#svx
+#svx (symphony folder is done)
 #sw
 #vcl
 #wizards
