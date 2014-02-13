@@ -158,6 +158,7 @@ sw/res/styfamnu.png sw/imglst/sf05.png
 sw/imglst/sr20005.png cmd/sc_insertdraw.png
 sw/imglst/sr20009.png cmd/sc_insertgraphic.png
 sw/imglst/sr20010.png cmd/sc_drawchart.png
+sw/imglst/sr20015.png cmd/sc_insertannotation.png
 
 # Other sizes
 # ===========
