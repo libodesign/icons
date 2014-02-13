@@ -3,6 +3,7 @@
 
 # Duplicates
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
+cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
 cmd/lc_graphic.png cmd/lc_insertgraphic.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
@@ -80,7 +81,6 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 
 #Duplicates
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
-cmd/lc_draw.png cmd/lc_reload.png
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_graphic.png cmd/sc_insertgraphic.png
