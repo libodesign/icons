@@ -139,6 +139,7 @@ sc/imglst/nc04.png cmd/sc_insertgraphic.png
 sc/imglst/nc05.png cmd/sc_drawchart.png
 sc/imglst/nc06.png cmd/sc_insertannotation.png
 sc/imglst/nc08.png cmd/sc_insertdraw.png
+sc/res/table.png cmd/sc_inserttable.png
 
 # Other sizes
 # ===========
