@@ -184,6 +184,8 @@ sw/imglst/sr20015.png cmd/sc_insertannotation.png
 sc/res/dropcopy.png cmd/sc_copy.png
 sc/res/dropurl.png cmd/sc_inserthyperlink.png
 sd/imglst/nv010.png cmd/sc_inserthyperlink.png
+sd/imglst/nv09.png sw/imglst/sc20238.png
+sc/res/droplink.png sw/imglst/sc20238.png
 
 # Other sizes
 # ===========
