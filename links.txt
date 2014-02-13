@@ -178,7 +178,7 @@ cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
-#Not included
+#Not included in sheets yet
 #extensions
 #formula
 #reportdesign
