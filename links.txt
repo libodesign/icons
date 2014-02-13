@@ -155,6 +155,8 @@ sw/res/all_right.png cmd/sc_lastpage.png
 sw/res/one_left.png cmd/sc_navigateback.png
 sw/res/one_right.png cmd/sc_navigateforward.png
 sw/res/styfamnu.png sw/imglst/sf05.png
+sw/imglst/sr20000.png cmd/sc_downsearch.png
+sw/imglst/sr20001.png cmd/sc_upsearch.png
 sw/imglst/sr20005.png cmd/sc_insertdraw.png
 sw/imglst/sr20009.png cmd/sc_insertgraphic.png
 sw/imglst/sr20010.png cmd/sc_drawchart.png
