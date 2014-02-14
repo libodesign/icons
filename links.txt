@@ -2,6 +2,11 @@
 # =====
 
 # Duplicates
+cmd/lc_adddatefield.png cmd/lc_datefield.png
+cmd/lc_insertdatefield.png cmd/lc_datefield.png
+cmd/lc_numberformatdate.png cmd/lc_datefield.png
+cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
+cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
 sw/imglst/lc20556.png cmd/lc_insertformula.png
 sc/imglst/lc26047.png cmd/lc_insertformula.png
 sfx2/res/favorite_big.png cmd/lc_insertbookmark.png
@@ -86,6 +91,11 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_adddatefield.png cmd/sc_datefield.png
+cmd/sc_insertdatefield.png cmd/sc_datefield.png
+cmd/sc_numberformatdate.png cmd/sc_datefield.png
+cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
+cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 sw/imglst/sc20556.png cmd/sc_insertformula.png
 sc/imglst/sc26047.png cmd/sc_insertformula.png
 sfx2/res/favorite.png cmd/sc_insertbookmark.png
