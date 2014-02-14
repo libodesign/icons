@@ -205,15 +205,12 @@ sc/res/dropurl.png cmd/sc_inserthyperlink.png
 sd/imglst/nv010.png cmd/sc_inserthyperlink.png
 sd/imglst/nv09.png sw/imglst/sc20238.png
 sc/res/droplink.png sw/imglst/sc20238.png
-formula/res/fx.png sc/imglst/sc26047.png
+sc/imglst/sc26047.png cmd/sc_insertformula.png
+formula/res/fx.png cmd/sc_insertformula.png
 
 # Other sizes
-# ===========
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
-
-#Not sure about
-sc/imglst/sc26047.png cmd/sc_insertformula.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
