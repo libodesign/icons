@@ -224,6 +224,7 @@ formula/res/fx.png cmd/sc_insertformula.png
 sc/res/fx.png cmd/sc_insertformula.png
 sc/res/file.png cmd/sc_open.png
 sc/res/date.png cmd/sc_datefield.png
+sc/res/time.png cmd/lc_timefield.png
 
 # Other sizes
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
