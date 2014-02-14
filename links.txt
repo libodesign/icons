@@ -229,10 +229,6 @@ sc/res/page.png sd/res/page.png
 sc/res/text.png cmd/sc_text.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
 
-# Other sizes
-sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
-sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
-
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
@@ -251,6 +247,11 @@ cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
+
+# Other sizes
+# ===========
+sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
+sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 
 #Not included in sheets yet
 #extensions
