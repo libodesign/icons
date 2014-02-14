@@ -164,6 +164,7 @@ sw/res/one_left.png cmd/sc_navigateback.png
 sw/res/one_right.png cmd/sc_navigateforward.png
 sw/res/styfamnu.png sw/imglst/sf05.png
 sw/imglst/nc20001.png cmd/sc_inserttable.png
+sw/imglst/nc20002.png cmd/sc_text.png
 sw/imglst/nc20003.png cmd/sc_insertgraphic.png
 sw/imglst/nc20004.png cmd/sc_drawchart.png
 sw/imglst/nc20005.png cmd/sc_insertbookmark.png
