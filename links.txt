@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
 cmd/lc_numberformatdate.png cmd/lc_datefield.png
@@ -91,6 +92,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
 cmd/sc_numberformatdate.png cmd/sc_datefield.png
