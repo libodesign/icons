@@ -54,6 +54,8 @@ sfx2/res/search.png cmd/lc_searchdialog.png
 sfx2/res/sortascending.png cmd/lc_sortascending.png
 starmath/res/at21717.png cmd/lc_bold.png
 starmath/res/at21718.png cmd/lc_italic.png
+starmath/res/at21719.png cmd/lc_fontheight.png
+starmath/res/at21720.png cmd/lc_charfontname.png
 
 #Not sure about
 sc/imglst/lc26047.png cmd/lc_insertformula.png
