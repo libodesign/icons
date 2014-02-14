@@ -210,6 +210,7 @@ sd/imglst/nv09.png sw/imglst/sc20238.png
 sc/res/droplink.png sw/imglst/sc20238.png
 formula/res/fx.png cmd/sc_insertformula.png
 sc/res/fx.png cmd/sc_insertformula.png
+sc/res/file.png cmd/sc_open.png
 
 # Other sizes
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
