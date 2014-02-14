@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+svtools/res/back_large.png cmd/lc_navigateback.png
 svtools/res/up_large.png cmd/lc_upsearch.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_adddatefield.png cmd/lc_datefield.png
@@ -93,6 +94,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+svtools/res/back_small.png cmd/sc_navigateback.png
 svtools/res/up_small.png cmd/sc_upsearch.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
