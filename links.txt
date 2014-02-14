@@ -86,6 +86,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+sw/imglst/sc20556.png cmd/sc_insertformula.png
+sc/imglst/sc26047.png cmd/sc_insertformula.png
 sfx2/res/favorite.png cmd/sc_insertbookmark.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_draw.png cmd/sc_reload.png
