@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+sw/imglst/lc20556.png cmd/lc_insertformula.png
+sc/imglst/lc26047.png cmd/lc_insertformula.png
 sfx2/res/favorite_big.png cmd/lc_insertbookmark.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_draw.png cmd/lc_reload.png
