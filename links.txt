@@ -189,6 +189,7 @@ sw/imglst/sr20002.png cmd/sc_inserttable.png
 sw/imglst/sr20003.png cmd/sc_text.png
 sw/imglst/sr20004.png sd/res/page.png
 sw/imglst/sr20005.png cmd/sc_insertdraw.png
+sw/imglst/sr20006.png cmd/sc_choosecontrols.png
 sw/imglst/sr20007.png cmd/sc_insertsection.png
 sw/imglst/sr20008.png cmd/sc_insertbookmark.png
 sw/imglst/sr20009.png cmd/sc_insertgraphic.png
