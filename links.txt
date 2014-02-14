@@ -178,6 +178,8 @@ sw/imglst/sc20171.png cmd/sc_movedownsubitems.png
 sw/imglst/sc20172.png cmd/sc_incrementsublevels.png
 sw/imglst/sc20173.png cmd/sc_decrementsublevels.png
 sw/imglst/sc20174.png cmd/sc_moveupsubitems.png
+sw/imglst/sc20175.png cmd/sc_downsearch.png
+sw/imglst/sc20186.png cmd/sc_upsearch.png
 sw/imglst/sc20235.png cmd/sc_inserthyperlink.png
 sw/imglst/sc20239.png cmd/sc_copy.png
 sw/imglst/sc20249.png cmd/sc_navigator.png
