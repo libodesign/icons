@@ -236,7 +236,6 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
 #Not included in sheets yet
 #extensions
-#formula
 #reportdesign
 #res
 #sc/res
