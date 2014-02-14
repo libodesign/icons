@@ -58,7 +58,6 @@ starmath/res/at21719.png cmd/lc_fontheight.png
 starmath/res/at21720.png cmd/lc_charfontname.png
 
 #Not sure about
-sc/imglst/lc26047.png cmd/lc_insertformula.png
 sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
 sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 
@@ -205,7 +204,6 @@ sc/res/dropurl.png cmd/sc_inserthyperlink.png
 sd/imglst/nv010.png cmd/sc_inserthyperlink.png
 sd/imglst/nv09.png sw/imglst/sc20238.png
 sc/res/droplink.png sw/imglst/sc20238.png
-sc/imglst/sc26047.png cmd/sc_insertformula.png
 formula/res/fx.png cmd/sc_insertformula.png
 
 # Other sizes
