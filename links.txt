@@ -255,7 +255,6 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 #extensions
 #reportdesign
 #res
-#sc/res
 #sch
 #sfx2/res (symphony folder is done)
 #starmath
