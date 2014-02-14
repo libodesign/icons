@@ -170,6 +170,7 @@ sw/imglst/nc20004.png cmd/sc_drawchart.png
 sw/imglst/nc20005.png cmd/sc_insertbookmark.png
 sw/imglst/nc20006.png cmd/sc_insertsection.png
 sw/imglst/nc20007.png cmd/sc_inserthyperlink.png
+sw/imglst/nc20008.png cmd/sc_insertreferencefield.png
 sw/imglst/nc20010.png cmd/sc_insertannotation.png
 sw/imglst/nc20011.png cmd/sc_insertdraw.png
 sw/imglst/sc20171.png cmd/sc_movedownsubitems.png
