@@ -226,6 +226,7 @@ sc/res/file.png cmd/sc_open.png
 sc/res/date.png cmd/sc_datefield.png
 sc/res/time.png cmd/lc_timefield.png
 sc/res/page.png sd/res/page.png
+sc/res/text.png cmd/sc_text.png
 
 # Other sizes
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
