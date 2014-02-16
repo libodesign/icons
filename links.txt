@@ -279,7 +279,6 @@ sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_c
 #reportdesign
 #res
 #sch
-#sfx2/res (symphony folder is done)
 #svtools/res
 #svx (symphony folder is done)
 #vcl
