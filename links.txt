@@ -286,5 +286,4 @@ vcl/res/closedoc.png sfx2/res/closedoc.png
 #svtools/res
 #svx (symphony folder is done)
 #vcl
-#wizards
 #xmlsecurity
