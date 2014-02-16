@@ -259,6 +259,8 @@ sfx2/res/styfam2.png sw/imglst/sf02.png
 sfx2/res/styfam4.png sw/imglst/sf04.png
 svtools/res/folder.png formula/res/fapclose.png
 svx/res/notcertificate_16.png xml/security/notcertificate_16.png
+res/sc10713.png cmd/sc_sortascending.png
+res/sc10712.png cmd/sc_sortdescending.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
