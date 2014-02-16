@@ -277,6 +277,7 @@ sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_c
 extensions/source/scanner/minus.png sfx2/res/minus.png
 extensions/source/scanner/plus.png sfx2/res/plus.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
+xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 
 #Not included in sheets yet
 #extensions
