@@ -274,6 +274,9 @@ cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 # ===========
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
+extensions/source/scanner/minus.png sfx2/res/minus.png
+extensions/source/scanner/plus.png sfx2/res/plus.png
+vcl/res/closedoc.png sfx2/res/closedoc.png
 
 #Not included in sheets yet
 #extensions
