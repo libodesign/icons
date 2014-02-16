@@ -287,4 +287,3 @@ xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 #svtools/res
 #svx (symphony folder is done)
 #vcl
-#xmlsecurity
