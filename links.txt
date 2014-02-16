@@ -285,6 +285,8 @@ sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 extensions/source/scanner/minus.png sfx2/res/minus.png
 extensions/source/scanner/plus.png sfx2/res/plus.png
+res/minus.png sfx2/res/minus.png
+res/plus.png sfx2/res/plus.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 
