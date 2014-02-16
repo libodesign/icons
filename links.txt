@@ -263,7 +263,6 @@ sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_c
 #res
 #sch
 #sfx2/res (symphony folder is done)
-#starmath
 #svtools
 #svx (symphony folder is done)
 #vcl
