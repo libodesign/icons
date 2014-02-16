@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+res/lc06300.png cmd/lc_navigateforward.png
+res/lc06301.png cmd/lc_navigateback.png
 svx/res/fontworkalignleft_26.png cmd/lc_alignleft.png
 svx/res/fontworkaligncentered_26.png cmd/lc_alignhorizontalcenter.png
 svx/res/fontworkalignright_26.png cmd/lc_alignright.png
@@ -98,6 +100,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+res/sc06300.png cmd/sc_navigateforward.png
+res/sc06301.png cmd/sc_navigateback.png
 svx/res/fontworkalignleft_16.png cmd/sc_alignleft.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
 svx/res/fontworkalignright_16.png cmd/sc_alignright.png
