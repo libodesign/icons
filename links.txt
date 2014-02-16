@@ -291,7 +291,6 @@ xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 #Not included in sheets yet
 #reportdesign
 #res
-#sch
 #svtools/res
 #svx (symphony folder is done)
 #vcl
