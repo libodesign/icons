@@ -289,7 +289,6 @@ vcl/res/closedoc.png sfx2/res/closedoc.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 
 #Not included in sheets yet
-#extensions
 #reportdesign
 #res
 #sch
