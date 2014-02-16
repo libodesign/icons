@@ -249,6 +249,7 @@ sfx2/res/newex.png cmd/sc_stylenewbyexample.png
 sfx2/res/styfam1.png sw/imglst/sf01.png
 sfx2/res/styfam2.png sw/imglst/sf02.png
 sfx2/res/styfam4.png sw/imglst/sf04.png
+svtools/res/folder.png formula/res/fapclose.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
