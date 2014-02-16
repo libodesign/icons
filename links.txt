@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+res/lx03256.png cmd/lc_addons.png
 res/lc05961.png cmd/lc_searchdialog.png
 res/lc10853.png cmd/lc_searchdialog.png
 res/lc06300.png cmd/lc_navigateforward.png
@@ -74,6 +75,7 @@ starmath/res/at21717.png cmd/lc_bold.png
 starmath/res/at21718.png cmd/lc_italic.png
 starmath/res/at21719.png cmd/lc_fontheight.png
 starmath/res/at21720.png cmd/lc_charfontname.png
+res/plugin.png cmd/lc_addons.png
 
 #Not sure about
 sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
@@ -102,6 +104,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+res/sx03256.png cmd/sc_addons.png
 res/sc05961.png cmd/sc_searchdialog.png
 res/sc10853.png cmd/sc_searchdialog.png
 res/sc06300.png cmd/sc_navigateforward.png
