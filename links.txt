@@ -243,9 +243,6 @@ sfx2/res/deleterow.png cmd/sc_deleterows.png
 reportdesign/res/sc30768.png cmd/sc_upsearch.png
 reportdesign/res/sc30769.png cmd/sc_downsearch.png
 reportdesign/res/sx12594.png cmd/sc_insertformula.png
-svx/res/fw07.png cmd/sc_alignleft.png
-svx/res/fw08.png cmd/sc_alignhorizontalcenter.png
-svx/res/fw09.png cmd/sc_alignright.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
