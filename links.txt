@@ -232,6 +232,8 @@ sc/res/time.png cmd/lc_timefield.png
 sc/res/page.png sd/res/page.png
 sc/res/text.png cmd/sc_text.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
+reportdesign/res/sc30768.png cmd/sc_upsearch.png
+reportdesign/res/sc30769.png cmd/sc_upsearch.png
 
 # Split button categories
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
