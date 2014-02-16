@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+res/lc05961.png cmd/lc_searchdialog.png
+res/lc10853.png cmd/lc_searchdialog.png
 res/lc06300.png cmd/lc_navigateforward.png
 res/lc06301.png cmd/lc_navigateback.png
 svx/res/fontworkalignleft_26.png cmd/lc_alignleft.png
@@ -100,6 +102,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+res/sc05961.png cmd/sc_searchdialog.png
+res/sc10853.png cmd/sc_searchdialog.png
 res/sc06300.png cmd/sc_navigateforward.png
 res/sc06301.png cmd/sc_navigateback.png
 svx/res/fontworkalignleft_16.png cmd/sc_alignleft.png
