@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
+cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
 cmd/lc_browseforward.png cmd/lc_navigateforward.png
 cmd/lc_browsebackward.png cmd/lc_navigateback.png
 cmd/lc_convertinto3d.png cmd/lc_extrusiontoggle.png
