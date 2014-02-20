@@ -109,6 +109,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
+cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_browseforward.png cmd/sc_navigateforward.png
 cmd/sc_browsebackward.png cmd/sc_navigateback.png
 cmd/sc_convertinto3d.png cmd/sc_extrusiontoggle.png
