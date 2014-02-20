@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+cmd/lc_convertinto3d.png cmd/lc_extrusiontoggle.png
 res/lx03256.png cmd/lc_addons.png
 res/lc05961.png cmd/lc_searchdialog.png
 res/lc10853.png cmd/lc_searchdialog.png
@@ -104,6 +105,7 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_convertinto3d.png cmd/sc_extrusiontoggle.png
 res/sx03256.png cmd/sc_addons.png
 res/sc05961.png cmd/sc_searchdialog.png
 res/sc10853.png cmd/sc_searchdialog.png
