@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+cmd/lc_pagedown.png cmd/lc_navigateforward.png
+cmd/lc_nextpage.png cmd/lc_navigateforward.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
 cmd/lc_browseforward.png cmd/lc_navigateforward.png
@@ -109,6 +111,8 @@ cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
 # =====
 
 #Duplicates
+cmd/sc_pagedown.png cmd/sc_navigateforward.png
+cmd/sc_nextpage.png cmd/sc_navigateforward.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_browseforward.png cmd/sc_navigateforward.png
