@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
@@ -110,6 +111,7 @@ sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 # =====
 
 #Duplicates
+cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
