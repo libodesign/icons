@@ -2,6 +2,24 @@
 # =====
 
 # Duplicates
+cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
+cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
+cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
+cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
+cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
+cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
+cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
+cmd/lc_rectangletoolbox.png cmd/lc_basicshapes.rectangle.png
+cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
+cmd/lc_connectortoolbox.png cmd/lc_connector.png
+cmd/lc_linetoolbox.png cmd/lc_freeline.png
+cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
+cmd/lc_texttoolbox.png cmd/lc_text.png
+cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
+cmd/lc_insertformspin.png cmd/lc_spinbutton.png
+cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
+cmd/lc_spellingandgrammardialog.png cmd/lc_spelling.png
+cmd/lc_spelldialog.png cmd/lc_spelling.png
 cmd/lc_pagedown.png cmd/lc_navigateforward.png
 cmd/lc_nextpage.png cmd/lc_navigateforward.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
@@ -88,29 +106,28 @@ res/plugin.png cmd/lc_addons.png
 sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
 sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 
-# Split button categories
-cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
-cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
-cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
-cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
-cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
-cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
-cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
-cmd/lc_rectangletoolbox.png cmd/lc_basicshapes.rectangle.png
-cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
-cmd/lc_connectortoolbox.png cmd/lc_connector.png
-cmd/lc_linetoolbox.png cmd/lc_freeline.png
-cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
-cmd/lc_texttoolbox.png cmd/lc_text.png
-cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
-cmd/lc_insertformspin.png cmd/lc_spinbutton.png
-cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
-cmd/lc_spellingandgrammardialog.png cmd/lc_spelldialog.png
-
 # 16x16
 # =====
 
 #Duplicates
+cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
+cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
+cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
+cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
+cmd/sc_starshapes.png cmd/sc_starshapes.star5.png
+cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
+cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
+cmd/sc_rectangletoolbox.png cmd/sc_basicshapes.rectangle.png
+cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
+cmd/sc_connectortoolbox.png cmd/sc_connector.png
+cmd/sc_linetoolbox.png cmd/sc_freeline.png
+cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
+cmd/sc_texttoolbox.png cmd/sc_text.png
+cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
+cmd/sc_insertformspin.png cmd/sc_spinbutton.png
+cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
+cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
+cmd/sc_spelldialog.png cmd/sc_spelling.png
 cmd/sc_pagedown.png cmd/sc_navigateforward.png
 cmd/sc_nextpage.png cmd/sc_navigateforward.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
@@ -281,25 +298,6 @@ res/sc10712.png cmd/sc_sortdescending.png
 fpicker/res/fp011.png res/sc06303.png
 res/reload.png cmd/sc_reload.png
 res/sc05501.png cmd/sc_open.png
-
-# Split button categories
-cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
-cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
-cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
-cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
-cmd/sc_starshapes.png cmd/sc_starshapes.star5.png
-cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
-cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
-cmd/sc_rectangletoolbox.png cmd/sc_basicshapes.rectangle.png
-cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
-cmd/sc_connectortoolbox.png cmd/sc_connector.png
-cmd/sc_linetoolbox.png cmd/sc_freeline.png
-cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
-cmd/sc_texttoolbox.png cmd/sc_text.png
-cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
-cmd/sc_insertformspin.png cmd/sc_spinbutton.png
-cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
-cmd/sc_spellingandgrammardialog.png cmd/sc_spelldialog.png
 
 # Other sizes
 # ===========
