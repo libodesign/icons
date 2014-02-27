@@ -319,6 +319,5 @@ xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 #res
 #svtools/res
 #svx (symphony folder is done)
-#vcl
 #sd/res/graphic.png -- Show shapes in Draw/Impress navigator
 #cursors from vcl/osx/res/cursors, vcl/inc/unx/x11_cursors, and win/source/src
