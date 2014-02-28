@@ -2,6 +2,8 @@
 # =====
 
 # Duplicates
+cmd/lc_previousannotation.png cmd/lc_navigateforward.png
+cmd/lc_nextannotation.png cmd/lc_navigateback.png
 cmd/lc_stylewatercanmode.png cmd/lc_styleapply.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
@@ -112,6 +114,8 @@ sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 # =====
 
 #Duplicates
+cmd/sc_previousannotation.png cmd/sc_navigateforward.png
+cmd/sc_nextannotation.png cmd/sc_navigateback.png
 cmd/sc_stylewatercanmode.png cmd/sc_styleapply.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
