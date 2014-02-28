@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateforward.png
 cmd/lc_nextannotation.png cmd/lc_navigateback.png
