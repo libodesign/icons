@@ -115,6 +115,7 @@ sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 # =====
 
 #Duplicates
+cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_closemasterview.png cmd/sc_closedoc.png
 cmd/sc_previousannotation.png cmd/sc_navigateforward.png
 cmd/sc_nextannotation.png cmd/sc_navigateback.png
