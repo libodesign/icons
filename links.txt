@@ -2,6 +2,7 @@
 # =====
 
 # Duplicates
+cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateforward.png
 cmd/lc_nextannotation.png cmd/lc_navigateback.png
 cmd/lc_stylewatercanmode.png cmd/lc_styleapply.png
@@ -114,6 +115,7 @@ sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 # =====
 
 #Duplicates
+cmd/sc_closemasterview.png cmd/sc_closedoc.png
 cmd/sc_previousannotation.png cmd/sc_navigateforward.png
 cmd/sc_nextannotation.png cmd/sc_navigateback.png
 cmd/sc_stylewatercanmode.png cmd/sc_styleapply.png
