@@ -94,6 +94,7 @@ sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_masterpage.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02049.png cmd/lc_playback-start.png
+avmedia/res/avl02052.png cmd/lc_repeat.png
 sfx2/imglst/actionaction012.png cmd/lc_searchdialog.png
 sfx2/imglst/actiontemplates018.png cmd/lc_delete.png
 sfx2/imglst/actionview025.png cmd/lc_delete.png
