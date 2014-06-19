@@ -332,6 +332,7 @@ res/sx03189.png formula/res/fapclose.png
 
 # Other sizes
 # -----------
+res/plugin.png desktop/res/extension_32.png
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 extensions/source/scanner/minus.png sfx2/res/minus.png
