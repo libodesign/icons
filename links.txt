@@ -1,7 +1,8 @@
-# 24x24
-# =====
+# Paired
+# ======
 
-# Duplicates
+# 24x24
+# -----
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateforward.png
@@ -97,29 +98,13 @@ sfx2/res/symphony/sidebar-template-large.png cmd/lc_masterpage.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02049.png cmd/lc_playback-start.png
 avmedia/res/avl02052.png cmd/lc_repeat.png
-sfx2/imglst/actionaction012.png cmd/lc_searchdialog.png
-sfx2/imglst/actiontemplates018.png cmd/lc_delete.png
-sfx2/imglst/actionview025.png cmd/lc_delete.png
-sfx2/imglst/actiontemplates016.png cmd/lc_setdocumentproperties.png
-sfx2/imglst/actiontemplates019.png cmd/lc_editdoc.png
-sfx2/imglst/actionview028.png cmd/lc_save.png
-sfx2/imglst/actionview030.png cmd/lc_open.png
-sfx2/res/search.png cmd/lc_searchdialog.png
-sfx2/res/sortascending.png cmd/lc_sortascending.png
-starmath/res/at21717.png cmd/lc_bold.png
-starmath/res/at21718.png cmd/lc_italic.png
-starmath/res/at21719.png cmd/lc_fontheight.png
-starmath/res/at21720.png cmd/lc_charfontname.png
-res/plugin.png cmd/lc_addons.png
 
 #Not sure about
 sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
 sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 
 # 16x16
-# =====
-
-#Duplicates
+# -----
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_closemasterview.png cmd/sc_closedoc.png
 cmd/sc_previousannotation.png cmd/sc_navigateforward.png
@@ -215,6 +200,28 @@ sfx2/res/symphony/sidebar-template-small.png cmd/sc_masterpage.png
 avmedia/res/av02048.png cmd/sc_open.png
 avmedia/res/av02049.png cmd/sc_playback-start.png
 avmedia/res/av02052.png cmd/sc_repeat.png
+
+# Single
+# ======
+
+# 24x24
+sfx2/imglst/actionaction012.png cmd/lc_searchdialog.png
+sfx2/imglst/actiontemplates018.png cmd/lc_delete.png
+sfx2/imglst/actionview025.png cmd/lc_delete.png
+sfx2/imglst/actiontemplates016.png cmd/lc_setdocumentproperties.png
+sfx2/imglst/actiontemplates019.png cmd/lc_editdoc.png
+sfx2/imglst/actionview028.png cmd/lc_save.png
+sfx2/imglst/actionview030.png cmd/lc_open.png
+sfx2/res/search.png cmd/lc_searchdialog.png
+sfx2/res/sortascending.png cmd/lc_sortascending.png
+starmath/res/at21717.png cmd/lc_bold.png
+starmath/res/at21718.png cmd/lc_italic.png
+starmath/res/at21719.png cmd/lc_fontheight.png
+starmath/res/at21720.png cmd/lc_charfontname.png
+res/plugin.png cmd/lc_addons.png
+
+# 16x16
+# -----
 chart2/res/dataeditor_icon01.png cmd/sc_insertrows.png
 chart2/res/dataeditor_icon02.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
@@ -323,7 +330,7 @@ res/sc05555.png cmd/sc_stylenewbyexample.png
 res/sc05556.png cmd/sc_styleupdatebyexample.png
 
 # Other sizes
-# ===========
+# -----------
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 extensions/source/scanner/minus.png sfx2/res/minus.png
@@ -332,6 +339,7 @@ res/minus.png sfx2/res/minus.png
 res/plus.png sfx2/res/plus.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
+res/versionwarning.png extensions/source/update/ui/onlineupdate_26.png
 
 #Not included in sheets yet
 #reportdesign
