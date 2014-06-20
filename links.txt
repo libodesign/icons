@@ -3,6 +3,7 @@
 
 # 24x24
 # -----
+
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateforward.png
@@ -329,6 +330,7 @@ res/sc05554.png cmd/sc_styleapply.png
 res/sc05555.png cmd/sc_stylenewbyexample.png
 res/sc05556.png cmd/sc_styleupdatebyexample.png
 res/sx03189.png formula/res/fapclose.png
+res/sc10863.png cmd/sc_grafluminance.png
 
 # Other sizes
 # -----------
