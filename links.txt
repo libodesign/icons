@@ -337,6 +337,7 @@ res/sc10866.png cmd/sc_grafgreen.png
 res/sc10867.png cmd/sc_grafblue.png
 res/sc10868.png cmd/sc_grafgamma.png
 res/sc10869.png cmd/sc_graftransparence.png
+res/fp015.png fpicker/res/fp014.png
 
 # Other sizes
 # -----------
