@@ -331,6 +331,12 @@ res/sc05555.png cmd/sc_stylenewbyexample.png
 res/sc05556.png cmd/sc_styleupdatebyexample.png
 res/sx03189.png formula/res/fapclose.png
 res/sc10863.png cmd/sc_grafluminance.png
+res/sc10864.png cmd/sc_grafcontrast.png
+res/sc10865.png cmd/sc_grafred.png
+res/sc10866.png cmd/sc_grafgreen.png
+res/sc10867.png cmd/sc_grafblue.png
+res/sc10868.png cmd/sc_grafgamma.png
+res/sc10869.png cmd/sc_graftransparence.png
 
 # Other sizes
 # -----------
