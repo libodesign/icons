@@ -3,7 +3,6 @@
 
 # 24x24
 # -----
-
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateforward.png
@@ -99,10 +98,6 @@ sfx2/res/symphony/sidebar-template-large.png cmd/lc_masterpage.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02049.png cmd/lc_playback-start.png
 avmedia/res/avl02052.png cmd/lc_repeat.png
-
-#Not sure about
-sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
-sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 
 # 16x16
 # -----
@@ -213,6 +208,8 @@ sfx2/imglst/actiontemplates016.png cmd/lc_setdocumentproperties.png
 sfx2/imglst/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/imglst/actionview028.png cmd/lc_save.png
 sfx2/imglst/actionview030.png cmd/lc_open.png
+sfx2/imglst/actionview010.png cmd/lc_importfromfile.png
+sfx2/imglst/actiontemplates020.png cmd/lc_exportto.png
 sfx2/res/search.png cmd/lc_searchdialog.png
 sfx2/res/sortascending.png cmd/lc_sortascending.png
 starmath/res/at21717.png cmd/lc_bold.png
@@ -225,6 +222,7 @@ svx/res/rotate3d.png cmd/lc_convertinto3dlathe.png
 
 # 16x16
 # -----
+res/mainapp_16_8.png res/mainapp_16.png
 chart2/res/dataeditor_icon01.png cmd/sc_insertrows.png
 chart2/res/dataeditor_icon02.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
@@ -346,6 +344,7 @@ svx/res/lngcheck.png cmd/sc_spelling.png
 
 # Other sizes
 # -----------
+res/mainapp_32_8.png res/mainapp_32.png
 res/plugin.png desktop/res/extension_32.png
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
