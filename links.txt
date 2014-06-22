@@ -221,6 +221,7 @@ starmath/res/at21719.png cmd/lc_fontheight.png
 starmath/res/at21720.png cmd/lc_charfontname.png
 res/plugin.png cmd/lc_addons.png
 svx/res/convrt3d.png cmd/lc_extrusiontoggle.png
+svx/res/rotate3d.png cmd/lc_convertinto3dlathe.png
 
 # 16x16
 # -----
