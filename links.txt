@@ -346,6 +346,7 @@ svx/res/lngcheck.png cmd/sc_spelling.png
 # Other sizes
 # -----------
 res/mainapp_32_8.png res/mainapp_32.png
+res/printeradmin_32_8.png res/printeradmin_32.png
 res/plugin.png desktop/res/extension_32.png
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
