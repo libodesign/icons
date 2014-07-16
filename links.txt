@@ -358,6 +358,7 @@ vcl/res/closedoc.png sfx2/res/closedoc.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
 res/versionwarning.png extensions/source/update/ui/onlineupdate_26.png
 res/lx03135.png cmd/lc_gallery.png
+svx/res/symphony/spacing3.png cmd/lc_spacepara1.png
 
 #Not included in sheets yet
 #reportdesign
