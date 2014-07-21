@@ -320,6 +320,7 @@ sfx2/res/newex.png cmd/sc_stylenewbyexample.png
 sfx2/res/styfam1.png sw/imglst/sf01.png
 sfx2/res/styfam2.png sw/imglst/sf02.png
 sfx2/res/styfam4.png sw/imglst/sf04.png
+sc/res/sf02.png sw/imglst/sf04.png
 svtools/res/folder.png formula/res/fapclose.png
 svx/res/notcertificate_16.png xml/security/notcertificate_16.png
 res/sc10713.png cmd/sc_sortascending.png
