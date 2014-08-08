@@ -13,6 +13,15 @@ cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
+cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_basicshapes.quadrat.png
+cmd/lc_flowchartshapes.flowchart-extract.png cmd/lc_basicshapes.isosceles-triangle.png
+cmd/lc_flowchartshapes.flowchart-preparation.png cmd/lc_basicshapes.hexagon.png
+cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
+cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_basicshapes.circle.png
+cmd/lc_flowchartshapes.flowchart-decision.png cmd/lc_basicshapes.diamond.png
+cmd/lc_flowchartshapes.flowchart-data.png cmd/lc_basicshapes.parallelogram.png
+cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
+cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
 cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
 cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
 cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
