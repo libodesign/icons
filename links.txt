@@ -138,6 +138,8 @@ cmd/sc_connectortoolbox.png cmd/sc_connector.png
 cmd/sc_linetoolbox.png cmd/sc_freeline.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
+cmd/sc_starchartdialog.png cmd/sc_drawchart.png
+cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
 cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
