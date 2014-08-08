@@ -87,7 +87,7 @@ sc/imglst/lc26050.png cmd/lc_cancel.png
 sc/imglst/lc26051.png cmd/lc_apply.png
 sw/imglst/lc20557.png cmd/lc_cancel.png
 sw/imglst/lc20558.png cmd/lc_apply.png
-sw/imglst/lc20556.png sc/imglst/lc26047.png
+sw/imglst/lc20556.png cmd/lc_insertformula.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 sfx2/res/symphony/sidebar-functions-large.png cmd/lc_insertformula.png
