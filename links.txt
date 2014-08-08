@@ -120,6 +120,15 @@ cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
 cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
+cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_basicshapes.quadrat.png
+cmd/sc_flowchartshapes.flowchart-extract.png cmd/sc_basicshapes.isosceles-triangle.png
+cmd/sc_flowchartshapes.flowchart-preparation.png cmd/sc_basicshapes.hexagon.png
+cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
+cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_basicshapes.circle.png
+cmd/sc_flowchartshapes.flowchart-decision.png cmd/sc_basicshapes.diamond.png
+cmd/sc_flowchartshapes.flowchart-data.png cmd/sc_basicshapes.parallelogram.png
+cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
+cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
 cmd/sc_starshapes.png cmd/sc_starshapes.star5.png
 cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
 cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
