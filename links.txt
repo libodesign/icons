@@ -185,7 +185,7 @@ sc/imglst/sc26050.png cmd/sc_cancel.png
 sc/imglst/sc26051.png cmd/sc_apply.png
 sw/imglst/sc20557.png cmd/sc_cancel.png
 sw/imglst/sc20558.png cmd/sc_apply.png
-sw/imglst/sc20556.png sc/imglst/sc26047.png
+sw/imglst/sc20556.png cmd/sc_insertformula.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
