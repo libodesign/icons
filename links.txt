@@ -7,6 +7,7 @@ cmd/lc_zoomplus.png cmd/lc_zoomin.png
 cmd/lc_zoomminus.png cmd/lc_zoomout.png
 cmd/lc_view100.png cmd/lc_zoom100percent.png
 cmd/lc_zoomtoolbox.png cmd/lc_zoom.png
+cmd/lc_adjust.png cmd/lc_zoomoptimal.png
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_previousannotation.png cmd/lc_navigateback.png
