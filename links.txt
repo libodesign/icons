@@ -113,8 +113,8 @@ avmedia/res/avl02052.png cmd/lc_repeat.png
 # -----
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_closemasterview.png cmd/sc_closedoc.png
-cmd/sc_previousannotation.png cmd/sc_navigateforward.png
-cmd/sc_nextannotation.png cmd/sc_navigateback.png
+cmd/sc_previousannotation.png cmd/sc_navigatenext.png
+cmd/sc_nextannotation.png cmd/sc_navigateforward.png
 cmd/sc_stylewatercanmode.png cmd/sc_styleapply.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
