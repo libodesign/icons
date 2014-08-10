@@ -116,6 +116,11 @@ avmedia/res/avl02052.png cmd/lc_repeat.png
 
 # 16x16
 # -----
+cmd/sc_zoomplus.png cmd/sc_zoomin.png
+cmd/sc_zoomminus.png cmd/sc_zoomout.png
+cmd/sc_view100.png cmd/sc_zoom100percent.png
+cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
+cmd/sc_adjust.png cmd/sc_zoomoptimal.png
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_closemasterview.png cmd/sc_closedoc.png
 cmd/sc_previousannotation.png cmd/sc_navigateback.png
