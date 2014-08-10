@@ -252,6 +252,7 @@ svx/res/rotate3d.png cmd/lc_convertinto3dlathe.png
 
 # 16x16
 # -----
+fpicker/res/fp015.png formula/res/fapclose.png
 res/mainapp_16_8.png res/mainapp_16.png
 res/printeradmin_16_8.png res/printeradmin_16.png
 chart2/res/dataeditor_icon01.png cmd/sc_insertrows.png
