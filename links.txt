@@ -5,8 +5,8 @@
 # -----
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_closemasterview.png cmd/lc_closedoc.png
-cmd/lc_previousannotation.png cmd/lc_navigateforward.png
-cmd/lc_nextannotation.png cmd/lc_navigateback.png
+cmd/lc_previousannotation.png cmd/lc_navigateback.png
+cmd/lc_nextannotation.png cmd/lc_navigateforward.png
 cmd/lc_stylewatercanmode.png cmd/lc_styleapply.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
