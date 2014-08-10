@@ -105,7 +105,6 @@ sfx2/res/symphony/sidebar-functions-large.png cmd/lc_insertformula.png
 sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 sfx2/res/symphony/sidebar-transition-large.png cmd/lc_dia.png
 sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
-sfx2/res/symphony/sidebar-template-large.png cmd/lc_masterpage.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02049.png cmd/lc_playback-start.png
 avmedia/res/avl02052.png cmd/lc_repeat.png
@@ -214,7 +213,6 @@ sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
 sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
 sfx2/res/symphony/sidebar-transition-small.png cmd/sc_dia.png
 sfx2/res/symphony/sidebar-animation-small.png cmd/sc_customanimation.png
-sfx2/res/symphony/sidebar-template-small.png cmd/sc_masterpage.png
 avmedia/res/av02048.png cmd/sc_open.png
 avmedia/res/av02049.png cmd/sc_playback-start.png
 avmedia/res/av02052.png cmd/sc_repeat.png
