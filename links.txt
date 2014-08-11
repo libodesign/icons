@@ -87,6 +87,9 @@ cmd/lc_square_rounded.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_rect_rounded.png cmd/lc_basicshapes.round-rectangle.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_fontcolor.png cmd/lc_color.png
+cmd/lc_cellverttop.png cmd/lc_aligntop.png
+cmd/lc_cellvertcenter.png cmd/lc_alignvcenter.png
+cmd/lc_cellvertbottom.png cmd/lc_alignbottom.png
 cmd/lc_alignverticalcenter.png cmd/lc_alignvcenter.png
 cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
