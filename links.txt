@@ -201,6 +201,9 @@ cmd/sc_square_rounded.png cmd/sc_basicshapes.round-quadrat.png
 cmd/sc_rect_rounded.png cmd/sc_basicshapes.round-rectangle.png
 cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_fontcolor.png cmd/sc_color.png
+cmd/sc_cellverttop.png cmd/sc_aligntop.png
+cmd/sc_cellvertcenter.png cmd/sc_alignvcenter.png
+cmd/sc_cellvertbottom.png cmd/sc_alignbottom.png
 cmd/sc_alignverticalcenter.png cmd/sc_alignvcenter.png
 cmd/sc_symbolcatalogue.png cmd/sc_insertsymbol.png
 cmd/sc_outlineleft.png cmd/sc_incrementlevel.png
