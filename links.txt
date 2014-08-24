@@ -219,6 +219,8 @@ cmd/sc_justifypara.png cmd/sc_alignblock.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
+cmd/sc_conditionalformatdialog.png cmd/sc_conditionalformatmenu.png
+cmd/sc_conddateformatdialog.png cmd/sc_conditionalformatmenu.png
 sc/imglst/sc26048.png cmd/sc_autosum.png
 sc/imglst/sc26050.png cmd/sc_cancel.png
 sc/imglst/sc26051.png cmd/sc_apply.png
