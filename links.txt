@@ -3,6 +3,8 @@
 
 # 24x24
 # -----
+cmd/lc_sortdown.png cmd/lc_sortdescending.png
+cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_characterbackgroundpattern.png cmd/lc_backcolor.png
 cmd/lc_zoomplus.png cmd/lc_zoomin.png
 cmd/lc_zoomminus.png cmd/lc_zoomout.png
@@ -120,6 +122,8 @@ avmedia/res/avl02052.png cmd/lc_repeat.png
 
 # 16x16
 # -----
+cmd/sc_sortdown.png cmd/sc_sortdescending.png
+cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_characterbackgroundpattern.png cmd/sc_backcolor.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
