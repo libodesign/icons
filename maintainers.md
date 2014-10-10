@@ -1,30 +1,30 @@
-base.svg
-charts.svg
-comments.svg
-embedsframes.svg
-extensions.svg
-folder.svg
-fontwork.svg
-help.svg
-htmlxml.svg
-libreoffice.svg
-lines.svg
-macros.svg
-mail.svg
-math.svg
-media.svg
-miscellaneous.svg
-navigation.svg
-objects.svg
-pages.svg
-presentation.svg
-print.svg
-saveexport.svg
-security.svg
-shapes.svg
-statusbar.svg
-styles.svg
-table.svg
-text.svg
-vcl.svg
-view.svg
+base.svg - [no maintainer]
+charts.svg - [no maintainer]
+comments.svg - [no maintainer]
+embedsframes.svg - [no maintainer]
+extensions.svg - [no maintainer]
+folder.svg - [no maintainer]
+fontwork.svg - [no maintainer]
+help.svg - [no maintainer]
+htmlxml.svg - [no maintainer]
+libreoffice.svg - [no maintainer]
+lines.svg - [no maintainer]
+macros.svg - [no maintainer]
+mail.svg - [no maintainer]
+math.svg - [no maintainer]
+media.svg - [no maintainer]
+miscellaneous.svg - [no maintainer]
+navigation.svg - [no maintainer]
+objects.svg - [no maintainer]
+pages.svg - [no maintainer]
+presentation.svg - [no maintainer]
+print.svg - [no maintainer]
+saveexport.svg - [no maintainer]
+security.svg - [no maintainer]
+shapes.svg - [no maintainer]
+statusbar.svg - [no maintainer]
+styles.svg - [no maintainer]
+table.svg - [no maintainer]
+text.svg - [no maintainer]
+vcl.svg - [no maintainer]
+view.svg - [no maintainer]
