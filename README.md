@@ -19,6 +19,10 @@ INKSCAPE
 Please use Inkscape to design the icons. Icon export depends on Inkscape-specific labels.
 You can download Inkscape for free from http://inkscape.org/
 
+MAINTAINERS
+-----------
+Each icon sheet has a maintainer that takes care of that particular sheet, listed . If you'd like to work on icons, write to the LibreOffice Design Redmine forum.
+
 DESIGN
 ------
 Principles
