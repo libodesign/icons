@@ -386,6 +386,8 @@ res/fp015.png fpicker/res/fp014.png
 res/newdoc.png fpicker/res/fp014.png
 res/fileopen.png formula/res/fapclose.png
 svx/res/lngcheck.png cmd/sc_spelling.png
+cmd/sc_conditionalformatdialog.png cmd/sc_conditionalformatmenu.png
+cmd/sc_conddateformatdialog.png cmd/sc_conditionalformatmenu.png
 
 # Other sizes
 # -----------
