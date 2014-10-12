@@ -25,6 +25,6 @@
 * statusbar.svg - [no maintainer]
 * styles.svg - [no maintainer]
 * table.svg - [no maintainer]
-* text.svg - [no maintainer]
+* text.svg - Alexander-Wilms
 * vcl.svg - [no maintainer]
 * view.svg - [no maintainer]
