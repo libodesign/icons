@@ -12,14 +12,14 @@
 * macros.svg - [no maintainer]
 * mail.svg - [no maintainer]
 * math.svg - [no maintainer]
-* media.svg - [no maintainer]
+* media.svg - Papamatti(symbolic)
 * miscellaneous.svg - [no maintainer]
 * navigation.svg - [no maintainer]
 * objects.svg - [no maintainer]
 * pages.svg - [no maintainer]
 * presentation.svg - [no maintainer]
 * print.svg - [no maintainer]
-* saveexport.svg - Papamatti
+* saveexport.svg - Papamatti(symbolic)
 * security.svg - [no maintainer]
 * shapes.svg - [no maintainer]
 * statusbar.svg - [no maintainer]
