@@ -15,7 +15,7 @@
 * media.svg - Papamatti(symbolic)
 * miscellaneous.svg - [no maintainer]
 * navigation.svg - [no maintainer]
-* objects.svg - [no maintainer]
+* objects.svg - Papamatti(symbolic)
 * pages.svg - [no maintainer]
 * presentation.svg - [no maintainer]
 * print.svg - [no maintainer]
