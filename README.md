@@ -32,6 +32,16 @@ Principles
 * If in doubt, refer to the Tango icon guidelines: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
 * When you're done with an icon, group it with an invisible (no fill and no stroke) 24x24px square.
 
+"Does lc_... already have a svg version?"
+=========================================
+1. Grep for the icon name: grep -i -r "lc_..." *
+
+2a1. If there's a match, open the file in Inkscape
+2a2. Go to "Edit > Search..." and enter the icon name in the "ID" text box
+
+2a2. If there's no match, open the SVG you want to add the icon to, select the layer that represents the path of the icon and add a grey rectangle with the icon name as ID
+2a3. Then draw the new icon in the "Tango" layer
+
 Drawing a 2D Shape Icon
 =======================
 1. Draw the shape and apply the shapeFill gradient to it in the Fill sidebar (Ctrl+Shift+F). Make sure it has no stroke.
