@@ -19,7 +19,7 @@
 * pages.svg - [no maintainer]
 * presentation.svg - [no maintainer]
 * print.svg - [no maintainer]
-* saveexport.svg - Papamatti(sifr only)
+* saveexport.svg - Alexander-Wilms, Papamatti(sifr only)
 * security.svg - [no maintainer]
 * shapes.svg - [no maintainer]
 * statusbar.svg - [no maintainer]
