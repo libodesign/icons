@@ -37,9 +37,11 @@ Principles
 1. Grep for the icon name: grep -i -r "lc_..." *
 
 2.1.1. If there's a match, open the file in Inkscape
+
 2.1.2. Go to "Edit > Search..." and enter the icon name in the "ID" text box
 
 2.2.1. If there's no match, open the SVG you want to add the icon to, select the layer that represents the path of the icon and add a grey rectangle with the icon name as ID
+
 2.2.2. Then draw the new icon in the "Tango" layer
 
 Drawing a 2D Shape Icon
