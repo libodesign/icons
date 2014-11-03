@@ -13,7 +13,7 @@
 * mail.svg - [no maintainer]
 * math.svg - [no maintainer]
 * media.svg - Papamatti(sifr only)
-* miscellaneous.svg - [no maintainer]
+* miscellaneous.svg - Papamatti(sifr only)
 * navigation.svg - [no maintainer]
 * objects.svg - Papamatti(sifr only)
 * pages.svg - [no maintainer]
