@@ -16,3 +16,4 @@ SYMBOLIC GUIDELINES
 * Put symbolic icons under the "symbolic" layer.
 * Except for the "save" symbol, always use symbols from https://github.com/GNOME/adwaita-icon-theme rather than custom ones.
 * Except for color-dependent metaphors, use the same metaphors as the Tango theme uses.
+* Use only the color #555753 at either 100% or 30% opacity.
