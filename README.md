@@ -7,13 +7,13 @@ Contact us if you want to contribute -- we need to add you to the repository.
 
 GUIDELINES
 ----------
-
 READ GUIDELINES.md BEFORE CONTRIBUTING!
 
 LICENSE
 -------
 See the LICENSE file in this folder for the licensing details.
 By submitting your work, you grant us an irrevocable permission to publish it under the licenses specified in that file.
+Don't forget to add yourself to the AUTHORS file -- otherwise, your changes are considered as public domain and you are not contacted if the set is relicensed!
 
 SPARKLESHARE
 ------------
