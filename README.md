@@ -5,6 +5,9 @@ Updated Tango-compatible Icon Theme for LibreOffice
 
 Contact us if you want to contribute -- we need to add you to the repository.
 
+GUIDELINES
+----------
+
 READ GUIDELINES.md BEFORE CONTRIBUTING!
 
 LICENSE
