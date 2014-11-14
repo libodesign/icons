@@ -1,6 +1,6 @@
 LibreOffice's Icon Themes
 
-Contact us if you want to contribute -- we need to add you to the repository.
+Contact us on our mailing list if you want to contribute -- we need to add you to the repository.
 
 GUIDELINES
 ----------
