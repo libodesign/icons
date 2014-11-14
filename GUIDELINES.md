@@ -1,7 +1,7 @@
 GENERAL GUIDELINES
 ------------------
 * Large icons should cover at most 22x22px. Always leave at least 1px empty on each side.
-* Align to a 1px-grid whenever possible. Make sure the grid (#) and snapping (%) is on in Inkscape.
+* Align to a 1px-grid whenever possible. (Make sure the grid [#] and snapping [%] is on in Inkscape.)
 * NEVER use the same symbol to mean two different things. Never use an icon from another icon set to mean something different than it means in that icon set.
 
 TANGO GUIDELINES
