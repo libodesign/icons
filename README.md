@@ -1,7 +1,4 @@
-tango-testing
-=============
-
-Updated Tango-compatible Icon Theme for LibreOffice
+LibreOffice's Icon Themes
 
 Contact us if you want to contribute -- we need to add you to the repository.
 
