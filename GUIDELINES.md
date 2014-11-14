@@ -8,7 +8,7 @@ TANGO GUIDELINES
 ----------------
 * Put tango icons under the "tango" layer.
 * Except for the "save" symbol, always use symbols from https://github.com/GNOME/adwaita-icon-theme rather than custom ones.
-* Design icons to have the same style as the Gnome icons.
+* Design icons to have the same style as the full-color Gnome icons.
 * Other than that, refer to the Tango icon guidelines: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines .
 
 SYMBOLIC GUIDELINES
