@@ -19,7 +19,7 @@ You can download Inkscape for free from http://inkscape.org/
 
 SPARKLESHARE
 ------------
-You can use SparkleShare to manage your git contributions if you'd like to.
+You can use SparkleShare to automatically push your changes to git.
 
 To set up SparkleShare, go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and copy over the text from the file in your SparkleShare folder.
 
