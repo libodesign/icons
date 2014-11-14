@@ -12,18 +12,20 @@ See the LICENSE file in this folder for the licensing details.
 By submitting your work, you grant us an irrevocable permission to publish it under the licenses specified in that file.
 Don't forget to add yourself to the AUTHORS file -- otherwise, your changes are considered as public domain and you are not contacted if the set is relicensed!
 
-SPARKLESHARE
-------------
-To set up SparkleShare, go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and copy over the text from the file in your SparkleShare folder.
-
 INKSCAPE
 --------
 Please use Inkscape to design the icons. Icon export depends on Inkscape-specific labels.
 You can download Inkscape for free from http://inkscape.org/
 
+SPARKLESHARE
+------------
+You can use SparkleShare to manage your git contributions if you'd like to.
+
+To set up SparkleShare, go to your Account Settings on GitHub (the "Tools" icon next to your username), go to SSH keys, and copy over the text from the file in your SparkleShare folder.
+
 MAINTAINERS
 -----------
-Each icon sheet has a maintainer that takes care of that particular sheet, listed . If you'd like to work on icons, write to the LibreOffice Design Redmine forum.
+Each icon sheet has a maintainer that takes care of that particular sheet, listed in MAINTAINERS.md. If you'd like to work on icons, write to the LibreOffice Design Redmine forum.
 
 FINDING ICONS
 -------------
