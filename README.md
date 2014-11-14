@@ -1,6 +1,6 @@
 This repository holds the sources to LibreOffice's vector-based icon themes.
 
-Contact us on our mailing list if you want to contribute -- we need to add you to the repository.
+Contact us on our mailing list if you want to contribute.
 
 GUIDELINES
 ----------
