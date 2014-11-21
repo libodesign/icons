@@ -261,6 +261,8 @@ starmath/res/at21720.png cmd/lc_charfontname.png
 res/plugin.png cmd/lc_addons.png
 svx/res/convrt3d.png cmd/lc_extrusiontoggle.png
 svx/res/rotate3d.png cmd/lc_convertinto3dlathe.png
+cmd/lc_conditionalformatdialog.png cmd/lc_conditionalformatmenu.png
+cmd/lc_conddateformatdialog.png cmd/lc_conditionalformatmenu.png
 
 # 16x16
 # -----

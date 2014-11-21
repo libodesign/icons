@@ -38,4 +38,4 @@ ADDING ICONS
 ------------
 You may add icons for newly-introduced functions that don't have an icon in LibreOffice.
 
-If it is not newly-introduced, it should be present already or it is listed under missing.md or links.txt. If it's listed under missing.md, add it to the correct sheet (as a rectangle under the layer named after the folder it's in) and remove it from missing.md. If it's not there, write to the design mailing list, to check whether it hasn't been simply removed, but accidentally left some tracks.
+If it is not newly-introduced, it should be present already or it is listed under missing.md or links.txt. If it's listed under missing.md, add it to the correct sheet (as a rectangle under the layer named after the folder it's in) and remove it from missing.md. Also add the new icon to the galaxy theme, otherwise it won't show up in the UI. If it's not there, write to the design mailing list, to check whether it hasn't been simply removed, but accidentally left some tracks.
