@@ -16,4 +16,6 @@ SYMBOLIC ICON GUIDELINES
 * Put symbolic icons under the "symbolic" layer.
 * Except for the "save" symbol, always use symbols from https://github.com/GNOME/adwaita-icon-theme rather than custom ones.
 * Except for color-dependent metaphors, use the same metaphors as the Tango theme uses.
-* Use only the color #555753 at either 100% or 30% opacity.
+* Use only the color #555753 (RGB 85-87-83) at either 100% or 35% opacity.
+* 16x16px icons use 1px thick lines, no need to leave 1px empty on each side.
+* 24x24px icons use 2px thick lines, always leave at leasr 1px empty on each side.
