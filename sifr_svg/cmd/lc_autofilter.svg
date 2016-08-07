@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg7833"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 24 24"
+   sodipodi:docname="lc_autofilter.svg"
+   inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/32/connector.png"
+   inkscape:export-xdpi="89"
+   inkscape:export-ydpi="89">
+  <title
+     id="title9025">LibreOffice Symbolic Icon Theme SIFR</title>
+  <defs
+     id="defs7835" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.598901"
+     inkscape:cx="2.9901073"
+     inkscape:cy="18.323271"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="956"
+     inkscape:window-height="485"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8381"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LibreOffice Symbolic Icon Theme SIFR</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>The Document Foundation</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Matthias Freund</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="old"
+     style="display:none">
+    <image
+       style="display:inline;opacity:0.25"
+       y="0"
+       x="0"
+       id="image5254"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAYRJREFU SIm1lD2SolAUhb/xkWBqbmJggIHh7KCzSWYBvQKrI3URE8wyXI9VdKCJoi4AEEse7/HeJNN0N7b8 2MWpunUKuPd8l58CbvXzm95Ivx/0Rnr5pjfSnwf9Rj9Kx7bNFk0ye+Wr1tqHyvf9L2lO+cR6vWYw GNDv93FdF9d1uV6vJElCGIacz2fSNMVay+VyIUkSsizjcDh8CSjfwWQ6nRLHMUqpohzHQQjxqaSU pGlKnuccj0eWyyXApA7wCkw8zyOKIrTWaK1xHIde773VGIOUkizL2O/3LBaLt/DXOkABGY/HhGGI UgopJcYYtNYA5HmO1ro2/B6ggIxGI6IoQimFEAKgeGxBEDCfzyvDqwAFZDgcEscxAEIIjDHsdjtm s1ldeONP3gPs6XSyQRDY1Wpl/w97FTNvPZ/0q8I9wG42m4/h9/otdwB1sr7vNx0s+qrewe2UbbxU 8bvoClBAWgG2222b9ndKQ31cv81cK/3tKhhgWfJO9Nxl+FPJO9G07cA/SafxbjMvgHIAAAAASUVO RK5CYII= "
+       height="24"
+       width="24" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="tango"
+     style="display:none" />
+  <g
+     id="layer1"
+     inkscape:label="symbolic"
+     inkscape:groupmode="layer"
+     transform="translate(0,-8)"
+     style="display:inline">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 6,14 c -0.552262,6e-5 -0.999945,0.44774 -1,1 L 6.15625,15 18,15 l 1,0 c -5.5e-5,-0.55226 -0.447738,-0.99994 -1,-1 z"
+       id="rect5793"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 5,16 c 0.01563,1.01563 0,1 1,2 l 4,4 4,0 4,-4 c 1,-1 1,-1 1,-2 z"
+       id="rect5813"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 10,23 0,3 c 3.51e-4,0.89064 1.077037,1.33659 1.707031,0.70703 l 2,-2 C 13.894567,24.51952 13.999949,24.2652 14,24 l 0,-1 z"
+       id="rect5839"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 13.500002,26 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 C 13.773182,26.99952 14,26.77281 14,26.49976 14,26.22671 13.773182,26 13.500002,26 Z"
+       id="path5852"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 13.500002,28 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 C 13.773182,28.99952 14,28.77281 14,28.49976 14,28.22671 13.773182,28 13.500002,28 Z"
+       id="path5852-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 9.500002,28 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 C 9.773182,28.99952 10,28.77281 10,28.49976 10,28.22671 9.773182,28 9.500002,28 Z"
+       id="path5852-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 14.500002,30.00048 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 C 14.773182,31 15,30.77329 15,30.50024 15,30.22719 14.773182,30.00048 14.500002,30.00048 Z"
+       id="path5852-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 11.499998,28.00048 C 11.226818,28.00048 11,28.22719 11,28.50024 11,28.77329 11.226818,29 11.499998,29 c 0.27318,0 0.499998,-0.22671 0.499998,-0.49976 0,-0.27305 -0.226818,-0.49976 -0.499998,-0.49976 z"
+       id="path5852-53"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 8.500002,30.00048 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 C 8.000004,30.77329 8.226822,31 8.500002,31 8.773182,31 9,30.77329 9,30.50024 9,30.22719 8.773182,30.00048 8.500002,30.00048 Z"
+       id="path5852-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 12.500006,30 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 0.27318,0 0.499998,-0.22671 0.499998,-0.49976 C 13.000004,30.22671 12.773186,30 12.500006,30 Z"
+       id="path5852-5-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 10.500002,30.00048 c -0.27318,0 -0.499998,0.22671 -0.499998,0.49976 0,0.27305 0.226818,0.49976 0.499998,0.49976 C 10.773182,31 11,30.77329 11,30.50024 11,30.22719 10.773182,30.00048 10.500002,30.00048 Z"
+       id="path5852-5-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 12.00049,8 c 0,0 -0.496623,2.00048 -1.30079,2.86275 -0.05801,0.0622 -0.188305,0.24042 -0.1997,0.70914 0,0.78899 0.67157,1.42859 1.5,1.42859 0.82843,0 1.5,-0.6396 1.5,-1.42859 C 13.4984,11.07293 13.346886,10.91495 13.30177,10.86637 12.482386,9.98415 12.00049,8 12.00049,8 Z"
+       id="path7286-8-2-4-9-3-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 8,8 c 0,0 -0.496623,2.00048 -1.30079,2.86275 -0.05801,0.0622 -0.188305,0.24042 -0.1997,0.70914 0,0.78899 0.67157,1.42859 1.5,1.42859 0.82843,0 1.5,-0.6396 1.5,-1.42859 C 9.49791,11.07293 9.346396,10.91495 9.30128,10.86637 8.481896,9.98415 8,8 8,8 Z"
+       id="path7286-8-2-4-9-3-2-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 16,8 c 0,0 -0.496623,2.00048 -1.30079,2.86275 -0.05801,0.0622 -0.188305,0.24042 -0.1997,0.70914 0,0.78899 0.67157,1.42859 1.5,1.42859 0.82843,0 1.5,-0.6396 1.5,-1.42859 -0.0016,-0.49896 -0.153114,-0.65694 -0.19823,-0.70552 C 16.481896,9.98415 16,8 16,8 Z"
+       id="path7286-8-2-4-9-3-2-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsc"
+       inkscape:export-filename="/home/matthias/GIT/icons/exported-sifr/cmd/lc_autofilter.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89" />
+  </g>
+</svg>
