@@ -1,6 +1,6 @@
 * base.svg - [no maintainer]
 * charts.svg - [no maintainer]
-* comments.svg - Papamatti (sifr only)
+* comments.svg - [no maintainer]
 * embedsframes.svg - [no maintainer]
 * extensions.svg - [no maintainer]
 * folder.svg - [no maintainer]
@@ -12,19 +12,19 @@
 * macros.svg - [no maintainer]
 * mail.svg - [no maintainer]
 * math.svg - [no maintainer]
-* media.svg - Papamatti(sifr only)
-* miscellaneous.svg - Papamatti(sifr only)
+* media.svg - [no maintainer]
+* miscellaneous.svg - [no maintainer]
 * navigation.svg - [no maintainer]
-* objects.svg - Papamatti(sifr only)
+* objects.svg - [no maintainer]
 * pages.svg - [no maintainer]
 * presentation.svg - [no maintainer]
 * print.svg - [no maintainer]
-* saveexport.svg - Alexander-Wilms, Papamatti(sifr only)
+* saveexport.svg - Alexander-Wilms
 * security.svg - [no maintainer]
 * shapes.svg - [no maintainer]
 * statusbar.svg - [no maintainer]
 * styles.svg - [no maintainer]
 * table.svg - [no maintainer]
-* text.svg - Alexander-Wilms, Papamatti(sifr only)
+* text.svg - Alexander-Wilms
 * vcl.svg - [no maintainer]
 * view.svg - [no maintainer]
